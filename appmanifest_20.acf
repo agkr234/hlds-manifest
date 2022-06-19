@@ -1,0 +1,20 @@
+"AppState"
+{
+	"appid"		"20"
+	"Universe"		"1"
+	"name"		"Team Fortress Classic"
+	"StateFlags"		"4"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1598204577"
+	"SizeOnDisk"		"124989202"
+	"buildid"		"5424801"
+	"LastOwner"		"0"
+	"UpdateResult"		"0"
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+	}
+}
